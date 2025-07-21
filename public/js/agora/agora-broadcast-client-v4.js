@@ -81,7 +81,7 @@ async function joinChannel() {
 
   try {
       console.log(11112)
-    options.uid = await client.join("11c51e3e019b471f9012c1bb2e8a741f", "toinv", "007eJxTYEhk0k98JH7WqOxRgOX+p5snM8sVymYtCvgz7cXfXq6uXdsVGAwNk00NU41TDQwtk0zMDdMsDQyNkg2TkoxSLRLNTQzTolTCMhoCGRnsu7xZGRkgEMRnZSjJz8wrY2AAADIvHrk=", null);
+    options.uid = await client.join("0be8026f5cfe442e80a2c1223e667791", "toinv", "007eJxTYNBkCvP78PDGj69t037WCV2f9bVyn0WNq/o9oekKMtdf8jkoMBgkpVoYGJmlmSanpZqYGAE5iUbJhkZGxqlmZubmloZbl9dmNAQyMjh/ZGBlZIBAEJ+VoSQ/M6+MgQEAx/Agjg==", null);
 
     if (options.role === "host") {
         // create local audio and video tracks
